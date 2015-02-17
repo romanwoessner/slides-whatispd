@@ -1,0 +1,30 @@
+{
+  "name": "slides-whatispd",
+  "version": "0.0.1",
+  "homepage": "https://github.com/romanwoessner/slides-whatispd",
+  "authors": [
+    "roman.woessner@disy.net"
+  ],
+  "description": "What is WPS-PD?",
+  "main": "index.html",
+  "keywords": [
+    "WPS",
+    "PD",
+    "presentation",
+    "directives",
+    "disy",
+    "ogc"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "reveal.js": "~3.0.0"
+  }
+}
